@@ -97,5 +97,4 @@ stack에 남아있는 값들을 위에서부터 하나씩 빼서 top에 넣는�
 
 # answer[top] = len(prices) - 1 - top
 그 top에 해당하는 answer를 구한다
-
 '''
