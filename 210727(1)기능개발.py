@@ -74,7 +74,7 @@ def solution(progresses, speeds):
     return answer
 
 
-
+'''
 # 답2
 def solution(progresses, speeds):
     Q=[]
@@ -84,6 +84,7 @@ def solution(progresses, speeds):
         else:
             Q[-1][1]+=1
     return [q[1] for q in Q]
+'''
 
 
 '''
